@@ -1,5 +1,0 @@
-package kodlamaio.Hrms.dateAccess.abstracts;
-
-public interface EmployerDao {
-
-}

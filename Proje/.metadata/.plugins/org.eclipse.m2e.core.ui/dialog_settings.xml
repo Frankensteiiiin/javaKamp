@@ -2,7 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
-			<item value="C:\Users\ebruk\Desktop\uygulamalar\proje\Hrms"/>
+			<item value="C:\Users\ebruk\Desktop\proje\hrms"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

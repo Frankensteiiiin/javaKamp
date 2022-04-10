@@ -1,8 +1,8 @@
-package kodlamaio.Hrms.business.abstracts;
+package kodlamaio.hrms.business.abstracts;
 
 import java.util.List;
 
-import kodlamaio.Hrms.entities.concretes.SystemUsers;
+import kodlamaio.hrms.entities.concretes.SystemUsers;
 
 public interface SystemUserService {
 	List<SystemUsers> getAll();

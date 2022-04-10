@@ -1,8 +1,8 @@
-package kodlamaio.Hrms.business.abstracts;
+package kodlamaio.hrms.business.abstracts;
 
 import java.util.List;
 
-import kodlamaio.Hrms.entities.concretes.JobPositions;
+import kodlamaio.hrms.entities.concretes.JobPositions;
 
 public interface JobPositionsService {
 	List<JobPositions> getAll();

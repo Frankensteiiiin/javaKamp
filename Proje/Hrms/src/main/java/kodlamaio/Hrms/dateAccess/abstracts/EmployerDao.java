@@ -1,8 +1,8 @@
-package kodlamaio.Hrms.dateAccess.abstracts;
+package kodlamaio.hrms.dateAccess.abstracts;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import kodlamaio.Hrms.entities.concretes.Employer;
+import kodlamaio.hrms.entities.concretes.Employer;
 
 public interface EmployerDao extends JpaRepository<Employer, Integer>{
 

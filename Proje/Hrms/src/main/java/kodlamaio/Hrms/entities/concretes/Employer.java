@@ -1,4 +1,4 @@
-package kodlamaio.Hrms.entities.concretes;
+package kodlamaio.hrms.entities.concretes;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
@@ -6,7 +6,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
-import kodlamaio.Hrms.entities.abstracts.User;
+import kodlamaio.hrms.entities.abstracts.User;
 import lombok.Data;
 
 

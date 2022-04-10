@@ -1,8 +1,8 @@
-package kodlamaio.Hrms.dateAccess.abstracts;
+package kodlamaio.hrms.dateAccess.abstracts;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import kodlamaio.Hrms.entities.concretes.SystemUsers;
+import kodlamaio.hrms.entities.concretes.SystemUsers;
 
 public interface SystemUsersDao extends JpaRepository<SystemUsers, Integer>{
 

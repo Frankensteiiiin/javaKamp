@@ -1,13 +1,13 @@
-package kodlamaio.Hrms.business.concretes;
+package kodlamaio.hrms.business.concretes;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import kodlamaio.Hrms.business.abstracts.JobPositionsService;
-import kodlamaio.Hrms.dateAccess.abstracts.JobPositionsDao;
-import kodlamaio.Hrms.entities.concretes.JobPositions;
+import kodlamaio.hrms.business.abstracts.JobPositionsService;
+import kodlamaio.hrms.dateAccess.abstracts.JobPositionsDao;
+import kodlamaio.hrms.entities.concretes.JobPositions;
 
 @Service
 public class JobPositionsManager implements JobPositionsService {

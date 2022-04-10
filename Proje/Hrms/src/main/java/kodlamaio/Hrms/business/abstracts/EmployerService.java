@@ -1,9 +1,9 @@
-package kodlamaio.Hrms.business.abstracts;
+package kodlamaio.hrms.business.abstracts;
 
 import java.util.List;
 
 
-import kodlamaio.Hrms.entities.concretes.Employer;
+import kodlamaio.hrms.entities.concretes.Employer;
 
 public interface EmployerService {
 	List<Employer> getAll();
